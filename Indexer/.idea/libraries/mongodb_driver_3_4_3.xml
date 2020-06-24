@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mongodb-driver-3.4.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mongodb-driver-3.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../mongodb-driver-core-3.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libstemmer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../libstemmer.jar!/" />
+    </SOURCES>
+  </library>
+</component>
